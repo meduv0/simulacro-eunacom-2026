@@ -2975,7 +2975,7 @@ transition-delay:0s!important;
       const levels=Object.entries(q.eunacomLevels||{}).map(([name,level])=>name+' '+level);
       if(levels.length)pauta.append(node('p','source',levels.join(' · ')));
     }
-    if(q.sourceOccurrences?.length)pauta.append(node('p','source',q.sourceOccurrences.join(' / ')));
+
     appendSourceSlide(pauta,q);
     if (q.teacherFocus) {
       const focus = q.teacherFocus;
@@ -3004,7 +3004,6 @@ transition-delay:0s!important;
     appendGineExplorer(pauta,q);
     appendClinicalManeuver(pauta,q);
     appendRealClinicalMedia(pauta,q);
-    if(isRandomized()) pauta.append(node('p','source','Número en el banco: '+q.number+(q.originalNumber ? ' · PDF original: pregunta '+q.originalNumber : '')+'.'));
     if(q.references?.length) {
       const refs = node('p','source');
       for(const [i,reference] of q.references.entries()) {
