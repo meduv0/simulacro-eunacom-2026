@@ -14,5 +14,6 @@ El total se calcula sobre las 4.298 preguntas del banco. Se considera cubierta u
 | Arritmias, insuficiencia cardíaca, valvulopatías, anticoncepción y depresión | 82 | 1.115 (25,94 %) | 3.183 (74,06 %) | 407 (9,47 %) | 361 (8,40 %) |
 | Úlcera péptica y hemorragia digestiva, urgencias biliopancreáticas y apendicitis, exantemas y cuadros respiratorios y óticos | 86 | 1.201 (27,94 %) | 3.097 (72,06 %) | 437 (10,17 %) | 447 (10,40 %) |
 | Trabajo de parto, diabetes gestacional, infecciones genitales, meningitis e infección urinaria | 83 | 1.284 (29,87 %) | 3.014 (70,13 %) | 497 (11,56 %) | 530 (12,33 %) |
+| Cardiopatías congénitas y convulsiones, urgencias de tórax y abdomen, tamizaje y medidas de asociación | 91 | 1.375 (31,99 %) | 2.923 (68,01 %) | 533 (12,40 %) | 621 (14,45 %) |
 
 La selección de temas considera la ponderación por área en la [matriz oficial del EUNACOM-ST](https://www.eunacom.cl/contenidos/matriz.html).
