@@ -16,5 +16,6 @@ El total se calcula sobre las 4.298 preguntas del banco. Se considera cubierta u
 | Trabajo de parto, diabetes gestacional, infecciones genitales, meningitis e infección urinaria | 83 | 1.284 (29,87 %) | 3.014 (70,13 %) | 497 (11,56 %) | 530 (12,33 %) |
 | Cardiopatías congénitas y convulsiones, urgencias de tórax y abdomen, tamizaje y medidas de asociación | 91 | 1.375 (31,99 %) | 2.923 (68,01 %) | 533 (12,40 %) | 621 (14,45 %) |
 | Tiroides y calcio, endocarditis, pericardio y disección aórtica, púrpura y vasculitis pediátricas | 90 | 1.465 (34,09 %) | 2.833 (65,91 %) | 547 (12,73 %) | 711 (16,54 %) |
+| Sangrado ginecológico, endometriosis y miomas, tromboembolismo venoso, reflujo y vómitos del lactante | 85 | 1.550 (36,06 %) | 2.748 (63,94 %) | 560 (13,03 %) | 796 (18,52 %) |
 
 La selección de temas considera la ponderación por área en la [matriz oficial del EUNACOM-ST](https://www.eunacom.cl/contenidos/matriz.html).
